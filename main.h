@@ -7,6 +7,6 @@ int multiply(int a, int b);
 
 int mod(int a, int b);
 
-float div(float a, float b);
+int div(int a, int b);
 
 #endif

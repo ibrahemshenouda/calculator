@@ -36,3 +36,15 @@ int mod(int a, int b)
 		int mod_result = a%b;
 		return mod_result;
 }
+
+int div (int a, int b )
+{
+ if (b==0)
+ {
+        cout<<"error"<<endl;
+        return ;
+ }
+
+ return a/b;
+}
+
